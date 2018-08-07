@@ -8,3 +8,4 @@ in between worked an extracting data and working on the artefact.
 3rd august - working on literature review
 4th august - literature review
 5th august - working on app development front end registration page.
+6th august - worked on registration page and artefact design.
